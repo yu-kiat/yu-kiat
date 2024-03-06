@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @yu-kiat
 - 👀 I’m interested in:
     > Linux
+    
     > SwayWM
+    
     > Ricing Linux
     
     > Literature
