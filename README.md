@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [catnip](https://github.com/iinsertNameHere/catnip)
 
-- 🌱 I’m currently learning **nim, linux**
+- 🌱 I’m currently learning **nim** and **linux**
 
 - 👯 I’m looking to collaborate on **small projects**
 
