@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is yuki!</h1>
 <h3 align="center">I'm a noob dev currently learning nim!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yu-kiat" alt="yuki-was-taken" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuki-was-taken&title=PullRequest,Commits,Issues" alt="yuki-was-taken" /></a> </p>
 
 - 🔭 I’m currently working on [Catnip](https://github.com/iinsertNameHere/catnip)
 
