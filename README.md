@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles at [https://awesome-yuki.neocities.org/](https://awesome-yuki.neocities.org/)
 
-- 📫 How to reach me **yukiat@proton.me**
+- 📫 Reach me at **yukiat@proton.me**
 
 - ⚡ Fun fact **(insert funny fact here)**x
 
