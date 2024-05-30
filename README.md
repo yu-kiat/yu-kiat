@@ -1,7 +1,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=89B4FA&center=true&vCenter=true&random=false&width=435&lines=hello+there!+i'm+yuki!" alt="Typing SVG" /></a></p>
 <h3 align="center">i'm a noob dev currently learning nim!</h3>
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=yu-kiat&show_icons=true&locale=en&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="yuki-was-taken" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=yuki-was-taken&show_icons=true&locale=en&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="yuki-was-taken" />
 
 - 🔭 i’m currently working on [catnip](https://github.com/iinsertNameHere/catnip)
 
